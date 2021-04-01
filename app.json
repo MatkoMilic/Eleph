@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Eleph",
+    "slug": "Eleph",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/finalAppIconEleph.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "io.expo.client"
+    },
+    "android": {
+      "package": "io.expo.client",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/finalAppIconEleph.png"
+      }
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  }
+}
