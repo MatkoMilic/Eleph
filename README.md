@@ -1,5 +1,5 @@
 # Eleph
-My first app so I didnt use best React practices like reusable components etc. 
+My first app so I didnt use best React practices like reusable components etc but im eager to rewrite important components of this app to suit 2021 React better. 
 Also I need to add comments about what each function does. Thank U.
 
 The idea of the application, frontend and backend and everything else is entirely my work.
