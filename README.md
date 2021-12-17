@@ -1,4 +1,7 @@
 # Eleph
+
+[App in need of refactoring]
+
 The idea of the application, frontend and backend and everything else is entirely my work. Planing to rewrite it completely with TypeScript and all the new technologies I learned. I only did one push to GitHub as I wasnt using git for this project.
 This app called Eleph is a mood social network written in a React Native environment where users 
 display their current mood in their posts. The graphs within the app summarize moods over specific time periods. 
